@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1712163630 source:f:\mengkoding\praktikum\modul 5 object oriented programming\modul 5 cpp\modul5_kel37\main.cpp
+	<iostream>
+	"userService.cpp"
+
+1712163645 f:\mengkoding\praktikum\modul 5 object oriented programming\modul 5 cpp\modul5_kel37\userservice.cpp
+	<iostream>
+	<string>
+
+1712163645 source:f:\mengkoding\praktikum\modul 5 object oriented programming\modul 5 cpp\modul5_kel37\userservice.cpp
+	<iostream>
+	<string>
+
