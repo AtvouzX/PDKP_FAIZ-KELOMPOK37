@@ -1,0 +1,10 @@
+1. Jelaskan apa itu Setter dan Getter beserta fungsinya!
+2. Jelaskan apa yang dimaksud dengan enkapsulasi! Dan jelaskan juga hak akses di enkapsulasi!
+3. Jelaskan apa yang kalian ketahui tentang UDT (User Data Type) !
+4. Siapa asprak yang paling ngeselin?
+
+Tugas pendahuluan dikerjakan secara individu di kertas berkop, ditulis tangan
+dengan bolpoin bertinta biru, dan dikumpulkan ke folder teams: Pengumpulan TP
+
+Upload TP secara berkelompok dengan ketentuan TP_Modul6_KelXX.pdf 
+dengan batas pengumpulan Sabtu, 20 April 2024 Jam 07.00 WIB.
