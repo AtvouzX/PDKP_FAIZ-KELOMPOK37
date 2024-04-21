@@ -9,7 +9,7 @@ public class userService {
         email = emails;
         password = passwords;
         String[][] data = {
-                {"nama1@kelompok37.com", "12345", "supedAdmin"},
+                {"nama1@kelompok37.com", "12345", "superAdmin"},
                 {"nama2@kelompok37.com", "4567", "user"}
         };
         this.data = data;
@@ -33,7 +33,7 @@ public class userService {
         boolean status = checkCredential();
         if(status == true) {
             System.out.println("\nWelcome " + roles);
-            System.out.println("Logged it as user email " + email);
+            System.out.println("Logged in as user email " + email);
         } else {
             System.out.println("\nInvalid Login ");
         }
