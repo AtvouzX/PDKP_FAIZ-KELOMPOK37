@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1713844294 source:f:\mengkoding\praktikum\modul 7 struktur data stack dan queue\modul 7 cpp\modul7_kel37\main.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+
+1713844490 source:f:\mengkoding\praktikum\modul 7 struktur data stack dan queue\modul 7 cpp\modul7_kel37\queue.cpp
+	<iostream>
+
