@@ -1,0 +1,9 @@
+1. Sebutkan tujuan dari praktikum ini.
+2. Sebutkan pengertian dari stack and queue.
+3. Sebutkan dan jelaskan konsep pada stack and queue.
+4. Sebutkan dan jelaskan method serta bahasa yang menggunakan method tersebut 
+   pada stack. (Minimal 1 method dari tiap bahasa pemrograman).
+5. Sebutkan dan jelaskan method serta bahasa yang menggunakan method tersebut 
+   pada queue. (Minimal 1 method dari tiap bahasa pemrograman).
+
+TP dikerjakan secara individu dan dikumpulkan secara berkelompok dalam folder Pengumpulan TP dengan format TP_Kelompok XX.pdf. Deadline pengumpulan Senin, 22 April 2024 jam 06.00 WIB
