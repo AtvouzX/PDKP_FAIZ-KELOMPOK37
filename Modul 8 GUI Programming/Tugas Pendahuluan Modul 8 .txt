@@ -1,0 +1,27 @@
+1. Jelaskan apa itu GUI! 
+
+2. Sebutkan software yang digunakan dalam membuat GUI dalam setiap bahasa pemrograman pada praktikum! 
+
+3. Gambarkan contoh sederhana tampilan GUI! 
+
+4. Sebutkan komponen GUI pada masing-masing bahasa pemrograman! 
+
+5. Sebutkan 3 channel tutorial coding Youtube favorit kalian! 
+
+6. Install Visual Studio yang nantinya akan digunakan untuk development GUI C++. Tutorial dapat dilihat pada drive folder "Tutorial instalasi Visual Studio" 
+
+ 
+
+Selamat mengerjakan dan semangat! 
+ 
+
+Deadline pengumpulan: 23 April 2024 pukul 23:59 WIB 
+
+Dikerjakan sesuai dengan ketentuan pada SOP secara INDIVIDU, dikumpulkan secara BERKELOMPOK, dalam PDF, dan Format penamaan file: TP_Modul8_KelXX 
+
+ 
+Kontak asisten 
+
+Rekel: georgemiracle.t. (LINE) 
+
+Arha : arhavvantio (LINE) 
