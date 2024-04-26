@@ -8,6 +8,7 @@ public class Praktikum_DKP {
         //mencetak nilai
         System.out.print("Saya punya Motor " + kiwkiw.getMotor());
         System.out.print(" dengan Merk "+ kiwkiw.getJenis());
-        System.out.print(", Berwarna "+ kiwkiw.getWarna());
+        System.out.println(", Berwarna "+ kiwkiw.getWarna());
+        System.out.println("Kelompok 37");
     }
 }
