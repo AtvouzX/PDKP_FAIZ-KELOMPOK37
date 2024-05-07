@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "F:\\MengKoding\\Praktikum\\Modul 8 GUI Programming\\Modul 8 CPP\\GUICPP_Kel37\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{93A16E33-1D5E-4F41-A06B-865F667FEC86}|GUICPP_Kel37.vcxproj|F:\\MengKoding\\Praktikum\\Modul 8 GUI Programming\\Modul 8 CPP\\GUICPP_Kel37\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
-      "RelativeMoniker": "D:0:0:{93A16E33-1D5E-4F41-A06B-865F667FEC86}|GUICPP_Kel37.vcxproj|solutionrelative:MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+      "AbsoluteMoniker": "D:0:0:{344D7993-2141-429D-8F70-55C4F31AF70E}|GUICPP_Kel37.vcxproj|F:\\MengKoding\\Praktikum\\Modul 8 GUI Programming\\Modul 8 CPP\\GUICPP_Kel37\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{344D7993-2141-429D-8F70-55C4F31AF70E}|GUICPP_Kel37.vcxproj|solutionrelative:MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{93A16E33-1D5E-4F41-A06B-865F667FEC86}|GUICPP_Kel37.vcxproj|F:\\MengKoding\\Praktikum\\Modul 8 GUI Programming\\Modul 8 CPP\\GUICPP_Kel37\\MyForm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{93A16E33-1D5E-4F41-A06B-865F667FEC86}|GUICPP_Kel37.vcxproj|solutionrelative:MyForm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{344D7993-2141-429D-8F70-55C4F31AF70E}|GUICPP_Kel37.vcxproj|F:\\MengKoding\\Praktikum\\Modul 8 GUI Programming\\Modul 8 CPP\\GUICPP_Kel37\\NewForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{344D7993-2141-429D-8F70-55C4F31AF70E}|GUICPP_Kel37.vcxproj|solutionrelative:NewForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{93A16E33-1D5E-4F41-A06B-865F667FEC86}|GUICPP_Kel37.vcxproj|F:\\MengKoding\\Praktikum\\Modul 8 GUI Programming\\Modul 8 CPP\\GUICPP_Kel37\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{93A16E33-1D5E-4F41-A06B-865F667FEC86}|GUICPP_Kel37.vcxproj|solutionrelative:MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{344D7993-2141-429D-8F70-55C4F31AF70E}|GUICPP_Kel37.vcxproj|F:\\MengKoding\\Praktikum\\Modul 8 GUI Programming\\Modul 8 CPP\\GUICPP_Kel37\\MyForm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{344D7993-2141-429D-8F70-55C4F31AF70E}|GUICPP_Kel37.vcxproj|solutionrelative:MyForm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{344D7993-2141-429D-8F70-55C4F31AF70E}|GUICPP_Kel37.vcxproj|F:\\MengKoding\\Praktikum\\Modul 8 GUI Programming\\Modul 8 CPP\\GUICPP_Kel37\\NewForm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{344D7993-2141-429D-8F70-55C4F31AF70E}|GUICPP_Kel37.vcxproj|solutionrelative:NewForm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{344D7993-2141-429D-8F70-55C4F31AF70E}|GUICPP_Kel37.vcxproj|F:\\MengKoding\\Praktikum\\Modul 8 GUI Programming\\Modul 8 CPP\\GUICPP_Kel37\\NewForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{344D7993-2141-429D-8F70-55C4F31AF70E}|GUICPP_Kel37.vcxproj|solutionrelative:NewForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,34 +30,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MyForm.h",
-              "DocumentMoniker": "F:\\MengKoding\\Praktikum\\Modul 8 GUI Programming\\Modul 8 CPP\\GUICPP_Kel37\\MyForm.h",
-              "RelativeDocumentMoniker": "MyForm.h",
-              "ToolTip": "F:\\MengKoding\\Praktikum\\Modul 8 GUI Programming\\Modul 8 CPP\\GUICPP_Kel37\\MyForm.h",
-              "RelativeToolTip": "MyForm.h",
-              "ViewState": "AQIAACwAAAAAAAAAAAAqwEYAAABSAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-04-24T14:07:18.793Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MyForm.cpp",
-              "DocumentMoniker": "F:\\MengKoding\\Praktikum\\Modul 8 GUI Programming\\Modul 8 CPP\\GUICPP_Kel37\\MyForm.cpp",
-              "RelativeDocumentMoniker": "MyForm.cpp",
-              "ToolTip": "F:\\MengKoding\\Praktikum\\Modul 8 GUI Programming\\Modul 8 CPP\\GUICPP_Kel37\\MyForm.cpp",
-              "RelativeToolTip": "MyForm.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-04-24T14:03:44.366Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -59,8 +41,57 @@
               "ToolTip": "F:\\MengKoding\\Praktikum\\Modul 8 GUI Programming\\Modul 8 CPP\\GUICPP_Kel37\\MyForm.h [Design]",
               "RelativeToolTip": "MyForm.h [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-04-24T14:03:30.284Z",
+              "WhenOpened": "2024-05-07T10:28:15.845Z",
               "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NewForm.h",
+              "DocumentMoniker": "F:\\MengKoding\\Praktikum\\Modul 8 GUI Programming\\Modul 8 CPP\\GUICPP_Kel37\\NewForm.h",
+              "RelativeDocumentMoniker": "NewForm.h",
+              "ToolTip": "F:\\MengKoding\\Praktikum\\Modul 8 GUI Programming\\Modul 8 CPP\\GUICPP_Kel37\\NewForm.h",
+              "RelativeToolTip": "NewForm.h",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAqwG4AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-01T05:06:25.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NewForm.cpp",
+              "DocumentMoniker": "F:\\MengKoding\\Praktikum\\Modul 8 GUI Programming\\Modul 8 CPP\\GUICPP_Kel37\\NewForm.cpp",
+              "RelativeDocumentMoniker": "NewForm.cpp",
+              "ToolTip": "F:\\MengKoding\\Praktikum\\Modul 8 GUI Programming\\Modul 8 CPP\\GUICPP_Kel37\\NewForm.cpp",
+              "RelativeToolTip": "NewForm.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-01T04:59:00.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NewForm.h [Design]",
+              "DocumentMoniker": "F:\\MengKoding\\Praktikum\\Modul 8 GUI Programming\\Modul 8 CPP\\GUICPP_Kel37\\NewForm.h",
+              "RelativeDocumentMoniker": "NewForm.h",
+              "ToolTip": "F:\\MengKoding\\Praktikum\\Modul 8 GUI Programming\\Modul 8 CPP\\GUICPP_Kel37\\NewForm.h [Design]",
+              "RelativeToolTip": "NewForm.h [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-01T04:53:32.625Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyForm.cpp",
+              "DocumentMoniker": "F:\\MengKoding\\Praktikum\\Modul 8 GUI Programming\\Modul 8 CPP\\GUICPP_Kel37\\MyForm.cpp",
+              "RelativeDocumentMoniker": "MyForm.cpp",
+              "ToolTip": "F:\\MengKoding\\Praktikum\\Modul 8 GUI Programming\\Modul 8 CPP\\GUICPP_Kel37\\MyForm.cpp",
+              "RelativeToolTip": "MyForm.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-01T02:37:11.797Z"
             }
           ]
         }

@@ -1,0 +1,3 @@
+F:\MengKoding\Praktikum\Modul 8 GUI Programming\PDKP_CPPGUI-master\PDKP_CPPGUI\x64\Debug\PDKP_CPPGUI.vcxproj.AssemblyReference.cache
+F:\MengKoding\Praktikum\Modul 8 GUI Programming\PDKP_CPPGUI-master\PDKP_CPPGUI\x64\Debug\PDKPCPPGUI.MyForm.resources
+F:\MengKoding\Praktikum\Modul 8 GUI Programming\PDKP_CPPGUI-master\PDKP_CPPGUI\x64\Debug\PDKP_CPPGUI.vcxproj.GenerateResource.cache
