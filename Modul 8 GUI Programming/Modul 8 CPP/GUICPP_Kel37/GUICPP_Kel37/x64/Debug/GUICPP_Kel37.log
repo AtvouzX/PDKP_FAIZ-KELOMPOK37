@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+F:\MengKoding\Praktikum\Modul 8 GUI Programming\Modul 8 CPP\GUICPP_Kel37\MyForm.cpp(8,33): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  GUICPP_Kel37.vcxproj -> F:\MengKoding\Praktikum\Modul 8 GUI Programming\Modul 8 CPP\GUICPP_Kel37\x64\Debug\GUICPP_Kel37.exe

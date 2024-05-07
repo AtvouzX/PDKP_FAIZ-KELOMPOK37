@@ -1,0 +1,4 @@
+F:\MengKoding\Praktikum\Modul 8 GUI Programming\Modul 8 CPP\GUICPP_Kel37\GUICPP_Kel37\x64\Debug\GUICPP_Kel37.vcxproj.AssemblyReference.cache
+F:\MengKoding\Praktikum\Modul 8 GUI Programming\Modul 8 CPP\GUICPP_Kel37\GUICPP_Kel37\x64\Debug\GUICPPKel37.MyForm.resources
+F:\MengKoding\Praktikum\Modul 8 GUI Programming\Modul 8 CPP\GUICPP_Kel37\GUICPP_Kel37\x64\Debug\GUICPP_Kel37.vcxproj.GenerateResource.cache
+F:\MengKoding\Praktikum\Modul 8 GUI Programming\Modul 8 CPP\GUICPP_Kel37\GUICPP_Kel37\x64\Debug\GUICPPKel37.NewForm.resources
